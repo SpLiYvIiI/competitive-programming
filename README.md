@@ -1,2 +1,15 @@
 # competitive_programming
-Im addicted to this :(
+
+
+
+
+
+
+Just an archive of problems i solved on several websites.
+
+
+
+
+
+
+
