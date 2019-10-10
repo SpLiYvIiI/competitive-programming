@@ -1,2 +1,2 @@
 # competitive_programming
-solutions to problems Ive understood :V 
+Im addicted to this :(
