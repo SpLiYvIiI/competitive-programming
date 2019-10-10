@@ -1,4 +1,4 @@
-https://leetcode.com/problems/binary-watch/
+https://leetcode.com/problems/binary-watch
 
 
 class Solution {
