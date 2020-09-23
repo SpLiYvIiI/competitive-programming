@@ -1,4 +1,4 @@
-https://leetcode.com/problems/invalid-transactionss
+https://leetcode.com/problems/invalid-transactions
 
 struct info{
     string name;
