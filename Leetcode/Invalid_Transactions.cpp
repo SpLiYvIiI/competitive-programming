@@ -4,7 +4,7 @@ struct info{
     string name;
     int price;
     int time;
-    string city;
+    string City;
 };
 class Solution {
 public:
@@ -30,7 +30,7 @@ public:
                 }
                 st+=t[i][j];
             }
-            temp.city = st;
+            temp.City = st;
             tmod.push_back(temp);
             st = "";
         }
@@ -45,7 +45,7 @@ public:
             }
             for (int j = 0;j<tmod.size();j++){   
                 if (i == j) continue;
-                if (tmod[i].name==tmod[j].name && (abs)(tmod[i].time-tmod[j].time)<=60 && tmod[i].city!=tmod[j].city){
+                if (tmod[i].name==tmod[j].name && (abs)(tmod[i].time-tmod[j].time)<=60 && tmod[i].City!=tmod[j].City){
                     found = true;
                     break;
                 }
