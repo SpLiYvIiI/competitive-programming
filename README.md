@@ -1,4 +1,4 @@
-# cp problems / technical job interview problems
+# cp / technical job interview problems
 
 [Leetcode profile](https://leetcode.com/xelladze/)
 
