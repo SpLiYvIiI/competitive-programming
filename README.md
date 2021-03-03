@@ -1,11 +1,10 @@
 # competitive_programming / technical job interview questions
 
+[Leetcode profile](https://leetcode.com/xelladze/)
+[Informatics.ge profile](https://informatics.ge/user/avtandili)
+[CSES profile](https://cses.fi/user/52241)
 
 
-[My leetcode profile](https://leetcode.com/xelladze/)
-
-
-**Just an archive of problems i solved on several websites.**
 
 
 
