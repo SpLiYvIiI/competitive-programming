@@ -1,4 +1,4 @@
-# competitive_programming / technical job interview questions
+# cp problems / technical job interview problems
 
 [Leetcode profile](https://leetcode.com/xelladze/)
 
