@@ -4,7 +4,7 @@
 
 [Informatics.ge profile](https://informatics.ge/user/avtandili)
 
-[Hackerrank profile](https://www.hackerrank.com/xelladze)
+[HackerRank profile](https://www.hackerrank.com/xelladze)
 
 [CSES profile](https://cses.fi/user/52241)
 
